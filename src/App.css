@@ -1,0 +1,86 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+
+}
+/* *******************************************ViewPortCss************************************************************* */
+
+
+.Viewport{
+
+  /* border:2px solid black; */
+  width:100%;
+  min-height: 100vh;
+  /* background-color: rgb(250, 241, 229); */
+   position: relative !important;
+}
+
+.navbar-brand{
+  color:white !important;
+  font-weight: bold;
+  font-size: 20px !important;
+}
+.navbar-brand span{
+  margin-left:5px;
+}
+
+.note-add-column{
+  /* border:2px solid black; */
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px black;
+position: relative;
+}
+
+
+
+  .add-btn:hover{
+    color:green
+   
+  }
+
+.Add-box-icon{
+  font-size: 50px !important;
+
+}
+
+.node{
+  background-color: white;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+}
+.delete-btn:hover{
+  color: red;
+  
+}
+.Delete-Box-icon{
+
+  transform: scale(1);
+  transition: transform ease-in-out 0.3s !important;
+}
+
+.delete-btn:hover .Delete-Box-icon{
+ transform: scale(1.4);
+}
+
+.Copyright{
+  color:white;
+
+  background-color: black;
+  padding:2vh;
+  position: absolute !important;
+  bottom: 0 !important;
+  letter-spacing: 5px;
+}
+
+
+
+
+
+@media (prefers-color-scheme: dark )
+{
+  .Viewport{
+    background-color: rgba(10, 10, 10, 0.7);
+  }
+}
+
