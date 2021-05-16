@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GooglekeepApp/static/css/main.0fe45305.chunk.css",
+    "main.js": "/GooglekeepApp/static/js/main.b0685da4.chunk.js",
+    "main.js.map": "/GooglekeepApp/static/js/main.b0685da4.chunk.js.map",
+    "runtime-main.js": "/GooglekeepApp/static/js/runtime-main.a600ae17.js",
+    "runtime-main.js.map": "/GooglekeepApp/static/js/runtime-main.a600ae17.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/GooglekeepApp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.27c43040.chunk.js": "/GooglekeepApp/static/js/2.27c43040.chunk.js",
+    "static/js/2.27c43040.chunk.js.map": "/GooglekeepApp/static/js/2.27c43040.chunk.js.map",
+    "index.html": "/GooglekeepApp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/GooglekeepApp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0fe45305.chunk.css.map": "/GooglekeepApp/static/css/main.0fe45305.chunk.css.map",
+    "static/js/2.27c43040.chunk.js.LICENSE.txt": "/GooglekeepApp/static/js/2.27c43040.chunk.js.LICENSE.txt",
+    "static/media/Logo.a13b3e85.png": "/GooglekeepApp/static/media/Logo.a13b3e85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a600ae17.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.27c43040.chunk.js",
+    "static/css/main.0fe45305.chunk.css",
+    "static/js/main.b0685da4.chunk.js"
+  ]
+}
